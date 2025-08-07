@@ -2,7 +2,7 @@
 
 **Event-driven, adaptive, and explainable AI for real-time decision-making across domains.**
 
->  built with love by Uniq Games / The ASK Company Ltd.*
+>  built with love by Uniq Games / The ASK Company Ltd.
 
 ---
 
